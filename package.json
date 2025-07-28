@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Bsrinithya.github.io/Project002",
+  "homepage": "https://Bsrinithya.github.io/Project003",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
